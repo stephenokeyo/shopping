@@ -1,0 +1,32 @@
+p{
+	color:blue;
+	text-align:center;
+}
+header,nav{
+	height:100px;
+}
+main{
+	height:500px;
+}
+footer{
+		height:100px;
+		clear:both;
+}
+article{
+	float:left;
+	width:70%;
+}
+aside{
+	float:right;
+	width:25%:
+}
+nav ul li{
+	display:inline;
+	padding:5px;
+}
+ul{
+	float:right;
+}
+aside ul li{
+	list-style-type:none;
+}
